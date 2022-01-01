@@ -1,0 +1,16 @@
+{
+    "Lua.diagnostics.globals": [
+        "love"
+    ],
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.workspace.library": [
+        "${3rd}/love2d/library"
+    ],
+    "Lua.workspace.checkThirdParty": false,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#26AAE1",
+        "statusBar.foreground": "#ffffff",
+        "statusBar.debuggingBackground": "#E74A99",
+        "statusBar.debuggingForeground": "#ffffff",
+    },
+}
