@@ -1,7 +1,7 @@
 # Five Dollars (stylized as _$5_)
 A 2D top-down arcade shooter game with roguelite elements being made in **Lua** with the **Love2D** game framework.
 
-----
+## Overview of Gameplay
 
 The idea of the game is that the player starts off with only `$5` in a `Shop`, and has nothing on them. No items, no weapons, nothing. 
 
