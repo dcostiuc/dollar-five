@@ -1,5 +1,3 @@
--- replace Level, backgroundColour, drawBackground, GameObject --
----------------------------------------------------------
 local GameObject = require("game_objects.GameObject")
 local colors = require("colors")
 
