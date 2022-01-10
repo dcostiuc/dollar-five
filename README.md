@@ -1,5 +1,5 @@
 # Five Dollars (stylized as _$5_)
-A 2D top-down arcade shooter game with roguelite elements, written in **Lua** using the **Love2D** game framework.  
+A work-in-progress 2D top-down arcade shooter game with roguelite elements, written in **Lua** using the **Love2D** game framework.  
 
 Essentially me experimenting with another language, and trying out another game framework that caught my attention, while implementing a cool game idea that I previously came up with.
 
