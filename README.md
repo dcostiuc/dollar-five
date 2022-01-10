@@ -19,7 +19,7 @@ However, a typical "run" of the game is meant to be fairly short, as a more "con
 
 ## Current Features
 - An "Arena" `Level`, with the opportunity to expand this into more of a dungeon crawler with multiple (or perhaps even unlimited) levels with varying enemies
-- Spawning enemies, though currently the only kind of enemy spawned is a `Bob`, who directly chases the player
+- Spawning enemies, though the only kind of enemy spawned currently is a `Bob`, who directly chases the player
 - `Coins`! (enemies drop coins, coins can be used to purchase more items - though that's still a work-in-progress)
 - `Item` system, where those items that are meant to be weapons have an `Attack Component` attached to them to allow the player to attack when that is the active item selected
 - `Game` management system
