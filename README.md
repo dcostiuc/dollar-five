@@ -23,4 +23,3 @@ However, a typical "run" of the game is meant to be fairly short, as a more "con
 - `Coins`! (enemies drop coins, coins can be used to purchase more items - though that's still a work-in-progress)
 - `Item` system, where those items that are meant to be weapons have an `Attack Component` attached to them to allow the player to attack when that is the active item selected
 - `Game` management system
-- `2D` Graphics (currently with possibly placeholder shapes)
