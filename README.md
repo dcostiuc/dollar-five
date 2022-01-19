@@ -23,3 +23,7 @@ However, a typical "run" of the game is meant to be fairly short, as a more "con
 - `Coins`! (enemies drop coins, coins can be used to purchase more items - though that's still a work-in-progress)
 - `Item` system, where those items that are meant to be weapons have an `Attack Component` attached to them to allow the player to attack when that is the active item selected
 - `Game` management system
+
+## WIP Gameplay
+![Five Dollars WIP Gameplay](https://github.com/dcostiuc/dollar-five/blob/master/Five%20Dollars%20WIP%20Gameplay.gif)  
+Note: The GIF's FPS is really jittery. Actual FPS is a lot smoother.
